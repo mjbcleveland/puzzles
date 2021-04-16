@@ -5,10 +5,10 @@
 
 # Starting set of rings:
 
-rings = ['BDMJPRSTLN', 
-         'AEIOUYRTLH', 
-         'ACDEORSTLN', 
-         'DHKYRSTLNE']
+rings = ['LBFRMDTSWP', 
+         'LOIAUYRWHE', 
+         'LAOKSNTMRE', 
+         'LYPETSMKGD']
 
 # get a word list. We only care about 4-letter words here. 
 
